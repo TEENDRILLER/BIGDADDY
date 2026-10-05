@@ -1,28 +1,28 @@
 {
-  "name": "klasu-tech-bot",
+  "name": "teenz-tech-bot",
   "version": "2.1.0",
   "description": "Professional WhatsApp bot with autosession authentication.",
   "keywords": [
     "whatsapp",
     "bot",
     "wolfsocket",
-    "klasu-tech",
+    "teenz-tech",
     "auto-restart",
     "prefix",
     "heartbeat",
     "monitor",
     "session-protection"
   ],
-  "homepage": "https://github.com/WOLVAREX/v1.1.5-KLAUS MD-#readme",
+  "homepage": "https://github.com/TEENDRILLER/BIGDADDY#readme",
   "bugs": {
-    "url": "https://github.com/WOLVAREX/v1.1.5-KLAUS MD-/issues"
+    "url": "https://github.com/TEENDRILLER/BIGDADDY/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/WOLVAREX/v1.1.5-KLAUS MD-.git"
+    "url": "git+https://github.com/TEENDRILLER/BIGDADDY.git"
   },
   "license": "MIT",
-  "author": "WOLVAREX",
+  "author": "Teenz Tech",
   "type": "module",
   "main": "index.js",
   "directories": {
