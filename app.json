@@ -1,20 +1,20 @@
 {
-  "name": "klasu-md",
-  "description": "KLASU MD — custom WhatsApp Bot with AI chat (ChatGPT/Gemini/Claude) and auto-session authentication",
-  "logo": "https://i.ibb.co/zWGkw7Jz/767022de0778.png",
-  "keywords": ["whatsapp", "bot", "custom", "baileys", "session", "ai"],
-  "repository": "https://github.com/WOLVAREX/v1.1.5-KLAUS MD-.git",
+  "name": "bigdaddy",
+  "description": "BIGDADDY — custom WhatsApp Bot with AI chat (ChatGPT/Gemini/Claude) and auto-session authentication",
+  "logo": "https://i.ibb.co/5XYzWsb8/2141c27c-2604-490e-9c58-28d9b945190e.png",
+  "keywords": ["whatsapp", "bot", "custom", "baileys", "session", "ai", "bigdaddy", "teenz"],
+  "repository": "https://github.com/TEENDRILLER/BIGDADDY.git",
   "scripts": {
     "start": "node --no-warnings --experimental-global-webcrypto index.js"
   },
   "env": {
     "SESSION_ID": {
-      "description": "REQUIRED: Your WhatsApp session ID. Must begin with 'KLAUS MD:' (or legacy 'KLAUS MD:'). Generated automatically after first pairing.",
+      "description": "REQUIRED: Your WhatsApp session ID. Must begin with 'BIGDADDY:' (or legacy 'BIGDADDY:'). Generated automatically after first pairing.",
       "value": "",
       "required": true
     },
     "DATABASE_URL": {
-      "description": "OPTIONAL: PostgreSQL connection string for persistent storage. Supports Heroku Postgres, Supabase, Neon, Railway, etc. Format: postgres://user:password@host:5432/dbname?sslmode=require — Leave blank to run on SQLite only.",
+      "description": "OPTIONAL: PostgreSQL connection string for persistent storage. Supports Heroku Postgres, Supabase, Neon, Railway, etc. Format: postgres://user:password@host:5432/dbname?sslmode=require",
       "value": "",
       "required": false
     },
@@ -45,7 +45,7 @@
     },
     "BOT_NAME": {
       "description": "Display name for the bot shown in menus and messages. Change at runtime with .setbotname.",
-      "value": "KLASU MD",
+      "value": "BIGDADDY",
       "required": false
     },
     "BOT_TIMEZONE": {
